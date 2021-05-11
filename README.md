@@ -35,3 +35,11 @@ Display:
   
   
 Brainstorm - 
+Words for tablet
+Tablet
+Slate
+Slab
+Sheet
+Papyrus
+Canvas
+Pad
