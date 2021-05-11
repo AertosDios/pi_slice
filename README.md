@@ -25,7 +25,7 @@ SBC/Motherboard:
 
 Power:
   Retro PSU  by AngryHelder
-  PiSugar2 Pro
+  PiSugar2 Pro - https://www.pisugar.com/
 Battery:
   5000 mAh LiPo Battery
 Display:
