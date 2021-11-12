@@ -26,7 +26,7 @@ https://mutantc.gitlab.io/mutantC_V3.html - Mutant C 3.5-4 inch(3B-4B+)
 
 Brainstorm - 
 
-Words for it
+Words for it -
 Tablet
 Slate
 Slab
