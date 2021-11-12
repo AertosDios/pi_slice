@@ -1,6 +1,11 @@
 # pi_slice
 A portable Raspberry Pi project! Somewhere between a phone and a tablet, with the maker/tinkerer in mind. 
 Linux on the go, in an ultraportable, but usable, formfactor with endless modularity.
+General Idea:
+A small portable cyber deck for your average console cowboy. 
+An all in one, everything you need and nothing you don't machine .
+Open ended design for increased DIY versitiliy.
+Made to be iterated and improved for specific use cases.
 
 Current Progress - 
 Stage 1
@@ -23,6 +28,7 @@ https://shop.cutiepi.io/products/cutiepi-tablet - CutiePi tablet 8inch(CM4)
 http://www.stefanv.com/electronics/a-compact-home-made-raspberry-pi-tablet.html - Stefanv 7in Tablet(3B+)
 https://mutantc.gitlab.io/mutantC_V3.html  https://mutantc.gitlab.io/mutantC_V3.html - Mutant C 3.5-4 inch(3B-4B+)
 Innovative Asterisk 7in Pi tablet
+https://yarh.io/yarh-io-mki.html YARH.IO  ruggedized mil-spec Pi handheld
 
 Brainstorm - 
 
