@@ -23,23 +23,10 @@ https://shop.cutiepi.io/products/cutiepi-tablet - CutiePi tablet 8inch(CM4)
 http://www.stefanv.com/electronics/a-compact-home-made-raspberry-pi-tablet.html - Stefanv 7in Tablet(3B+)
 https://mutantc.gitlab.io/mutantC_V3.html - Mutant C 3.5-4 inch(3B-4B+)
 
-Components-
-SBC/Motherboard:
-  Raspberry Pi 4 (preffered 4gb+)
 
-Power:
-  Retro PSU  by AngryHelder
-  PiSugar2 Pro - https://www.pisugar.com/
-Battery:
-  5000 mAh LiPo Battery
-Display:
-  5in DSI Osoyoo touchscreen
-  5in DSI DFRobot - https://wiki.dfrobot.com/5%27%27TFT-Display_with_Touchscreen_V1.0_SKU_DFR0550
-  
-  
-  
 Brainstorm - 
-Words for tablet
+
+Words for it
 Tablet
 Slate
 Slab
@@ -47,3 +34,7 @@ Sheet
 Papyrus
 Canvas
 Pad
+Deck
+Dashboard
+
+
