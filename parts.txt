@@ -6,6 +6,7 @@ PiCamera
 MPU6050 accelerometer
 HW517 fan speed controler
 RTC
+Motion CoProcessor 
 
 1. CPU
 Raspberry pi4 B+
