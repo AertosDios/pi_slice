@@ -1,0 +1,36 @@
+Components for Pi Slice
+
+1. CPU
+Raspberry pi4 B+
+
+  -Pi CM4
+    Carrier board
+
+
+2. PSU
+AmpRipper 3000
+Product - https://www.tindie.com/products/kickstart_design/ampripper-3000-5v-3a-lipo-battery-charger/
+DOC - https://www.kickstart-design.com/our-products/p/amp-ripper-3000
+
+RetroPSU by Helder
+Product - https://www.heldergametech.com/shop/gameboy-zero/retropsu/
+DOC - https://github.com/Helder1981/OneForAll
+
+-Battery
+10000MAh Lipo Battery 3.7V
+https://www.amazon.com/10000mAh-1165114-battery-Rechargeable-Connector/dp/B07BTTQ6JT
+
+
+3. Display
+5'' 800x480 TFT DSI Touchscreen
+https://www.dfrobot.com/product-1784.html
+-7” 800x480 TFT DSI Capacitive Touchscreen
+  https://www.dfrobot.com/product-2193.html
+
+
+4. Sound
+MAX98357A Adafruit I2S 3W Class D Amplifier Breakout
+https://www.adafruit.com/product/3006
+Mono Enclosed Speaker - 3W 4 Ohm
+https://www.adafruit.com/product/3351
+
