@@ -2,6 +2,10 @@
 A portable Raspberry Pi project! Somewhere between a phone and a tablet, with the maker/tinkerer in mind. 
 Linux on the go, in an ultraportable, but usable, formfactor with endless modularity.
 
+Current Progress - 
+Stage 1
+Currently working on getting the right components for a good experience and developing a first prototype
+
 Stages - 
 1. Prototyping / Developing Hardware/ Interfacing
 2. Modular / Maker model with 4B+ as main board. 
