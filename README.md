@@ -17,11 +17,11 @@ Stages -
 Influences - 
 Heavily influeced by modern cyberdecks and the cyberpunk genre...
 https://cyberdeck.cafe/projects
-https://hackaday.io/project/178372-pi-tablet-mk1 - PiTablet 5inch(4B+)
+https://hackaday.io/project/178372-pi-tablet-mk1 - PiTablet MK1 5inch(4B+)
 https://www.seeedstudio.com/ReTerminal-with-CM4-p-4904.html - reTerminal Computer 5inch (CM4) 
 https://shop.cutiepi.io/products/cutiepi-tablet - CutiePi tablet 8inch(CM4)
 http://www.stefanv.com/electronics/a-compact-home-made-raspberry-pi-tablet.html - Stefanv 7in Tablet(3B+)
-https://mutantc.gitlab.io/mutantC_V3.html - Mutant C 3.5-4 inch(3B-4B+)
+https://mutantc.gitlab.io/mutantC_V3.html  https://mutantc.gitlab.io/mutantC_V3.html - Mutant C 3.5-4 inch(3B-4B+)
 
 
 Brainstorm - 
