@@ -22,7 +22,7 @@ https://www.seeedstudio.com/ReTerminal-with-CM4-p-4904.html - reTerminal Compute
 https://shop.cutiepi.io/products/cutiepi-tablet - CutiePi tablet 8inch(CM4)
 http://www.stefanv.com/electronics/a-compact-home-made-raspberry-pi-tablet.html - Stefanv 7in Tablet(3B+)
 https://mutantc.gitlab.io/mutantC_V3.html  https://mutantc.gitlab.io/mutantC_V3.html - Mutant C 3.5-4 inch(3B-4B+)
-
+Innovative Asterisk 7in Pi tablet
 
 Brainstorm - 
 
@@ -36,5 +36,8 @@ Canvas
 Pad
 Deck
 Dashboard
+Slice
+UMPC
+
 
 
