@@ -7,6 +7,7 @@ MPU6050 accelerometer
 HW517 fan speed controler
 RTC
 Motion CoProcessor 
+SD card adjuster
 
 1. CPU
 Raspberry pi4 B+
