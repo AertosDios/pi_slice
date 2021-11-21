@@ -9,7 +9,7 @@ Made to be iterated and improved for specific use cases.
 
 Current Progress - 
 Stage 1
-Currently working on getting the right components for a good experience and developing a first prototype
+First prototype built, ironing out some kinks for v0.2
 
 Stages - 
 1. Prototyping / Developing Hardware/ Interfacing
